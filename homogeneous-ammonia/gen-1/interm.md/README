@@ -1,0 +1,5 @@
+sbatch interm-struct.slurm         # creates all intermediate structures with packmol
+python run-MD.py                   # generates directories to run MD
+python only_submit.py > jobs.dat   # submits all the MD jobs and stores the job ID to jobs.dat
+sbatch check_dev_stop.slurm        # Uses jobs.dat and submitted_md.path to cancel jobs that have max force > 10 eV/A
+python find_useful_interm.py 1     # To find the useful MD simulations
