@@ -1,0 +1,2 @@
+Run TiC-filtering.ipynb notebook to generate files
+sbatch filter.slurm # to create jobs

@@ -1,0 +1,1 @@
+This is an example for the TixCy system for hetergeneous catalysis of C-C coupling. We provide examples of generation 0 and generation 1. Along with some jupyter notebooks for production. 

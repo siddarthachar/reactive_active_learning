@@ -1,0 +1,3 @@
+Run TiC-gen-struct.ipynb notebook to generate reactant and product structures
+python dispatch_neb.py
+python get_last_images.py
