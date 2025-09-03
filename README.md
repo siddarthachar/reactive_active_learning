@@ -27,7 +27,7 @@ conda activate ral
 pip install numpy scipy pandas matplotlib tqdm pyyaml
 pip install ase networkx rdkit-pypi
 pip install jupyter ipykernel
-
+```
 Optional: PyTorch or another ML framework of choice for training committee models.
 
 RAL requires access to a DFT package (e.g., VASP, Quantum ESPRESSO) for generating reference data.
