@@ -35,6 +35,7 @@ Optional: PyTorch or another ML framework of choice for training committee model
 RAL requires access to a DFT package (e.g., VASP, Quantum ESPRESSO) for generating reference data.
 
 ## Quick Start
+
 	1.	Train an initial MLIP committee on short DFT-MD of reactants.
 	2.	Generate product candidates and reaction paths (SE-GSM for homogeneous systems; NEB + CatKit for surfaces).
 	3.	Run path exploration with a committee member, collect frames.
