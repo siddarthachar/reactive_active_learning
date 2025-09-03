@@ -7,11 +7,13 @@
 ---
 
 ## Repository Contents
+```
 reactive_active_learning/
 ├── homogeneous-ammonia/       # Example: NH3 synthesis (SE-GSM RAL)
 ├── homogeneous-methanimine/   # Example: Methanimine hydrolysis
 ├── heterogeneous-TiC/         # Example: CH4 activation/coupling on TiC
 └── README.md
+```
 
 Each folder contains scripts and example data demonstrating the workflow described in the paper.
 
