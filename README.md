@@ -15,7 +15,7 @@ reactive_active_learning/
 └── README.md
 ```
 
-Each folder contains scripts and example data demonstrating the workflow described in the paper.
+Each example folder includes its own `README.md` with details on the associated active-learning workflow and data.
 
 ---
 
