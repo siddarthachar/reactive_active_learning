@@ -4,6 +4,8 @@
 
 **Reactive Active Learning (RAL)** is a framework for training machine-learned interatomic potentials for reactive systems. It combines automated reaction exploration, active learning based on model uncertainty, and retraining cycles to converge on accurate reactive MLIPs with minimal data. The method is validated across gas-phase, solution-phase, and heterogeneous catalysis examples.
 
+![RAL schematic](images/ral_scheme.png)
+
 ---
 
 ## Repository Contents
